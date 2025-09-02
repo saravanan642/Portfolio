@@ -1,0 +1,23 @@
+.nav{
+    border: none;
+    gap: 30px;
+    justify-content: end;
+    display: flex;
+    margin-left: 50%;
+    padding-top: 8px;
+    font-weight: bold;
+    font-size: large ;
+    color:whitesmoke
+}
+
+h2{
+    border: none;
+    margin-left: 20px;
+    color: whitesmoke;
+}
+.nav_bar{
+    border: none;
+    display: flex;
+    gap: 40px;
+    background-color:blueviolet;
+}
